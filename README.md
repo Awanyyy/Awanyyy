@@ -16,3 +16,5 @@ While my academic quest is to rebuild the world in 3D reconstruction, I'm also a
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Awanyyy)](https://github.com/anuraghazra/github-readme-stats)
